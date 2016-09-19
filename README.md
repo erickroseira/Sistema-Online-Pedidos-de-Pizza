@@ -1,4 +1,4 @@
-# mata62-projeto (ALTERE PARA O NOME DO SEU PROJETO)
+Sistema Online de Pedidos de Pizza
 
 ## Configuração inicial do projeto
 
