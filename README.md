@@ -1,5 +1,8 @@
 # Sistema Online de Pedidos de Pizza
 
+
+
+
 ## Configuração inicial do projeto
 
 1. Faça um fork deste projeto.
