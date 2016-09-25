@@ -1,4 +1,4 @@
-Sistema Online de Pedidos de Pizza
+# Sistema Online de Pedidos de Pizza
 
 ## Configuração inicial do projeto
 
